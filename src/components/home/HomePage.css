@@ -1,0 +1,47 @@
+.homeContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.homeLeft{
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 50px;
+    background-color: #04AA6D;
+    border-color: black;
+    border: 2px;
+    border-style: solid;
+}
+
+.homeMid {
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 50px;
+    background-color: #04AA6D;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.homeRight {
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 50px;
+    background-color: #04AA6D;
+    border-color: black;
+    border: 2px;
+    border-style: solid;
+}
+
+.separator {
+    padding-right: 50px;
+    padding-left: 50px;
+}
