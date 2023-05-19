@@ -1,7 +1,7 @@
 {
   "name": "nart",
   "version": "0.1.0",
-  "homepage": "https://tylershienlim.github.io/nart",
+  "homepage": "https://tylershienlim.github.io",
   "private": true,
   "dependencies": {
     "@google-cloud/bigquery": "^6.2.0",
