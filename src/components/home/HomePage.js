@@ -12,7 +12,7 @@ function HomePage() {
     }
 
     const toData = () => {
-        window.open("https://console.cloud.google.com/", "_self");
+        window.open("https://console.cloud.google.com/welcome?project=nart-f1a98", "_self");
     }
     
     const toLogOut = () => {
